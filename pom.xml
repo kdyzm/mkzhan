@@ -95,7 +95,9 @@
 						</goals>
 						<configuration>
 							<tasks>
-								<delete dir="product"/>
+								<delete dir="product/config"/>
+								<delete file="product/mkzhan-0.0.1-SNAPSHOT.jar"/>
+								<delete file="product/start.bat"/>
 								<mkdir dir="product/config" />
 								<copy todir="product/config">
 									<fileset dir="config" />
