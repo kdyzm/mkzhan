@@ -99,6 +99,48 @@
 			"url":"http://www.mkzhan.com/103761",
 			"name":"核力突破Level Up",
 			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/206803",
+			"name":"东旅劫谈",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/206319",
+			"name":"哑舍",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/1546",
+			"name":"腾空之约",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/60518",
+			"name":"Super少女",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/52655",
+			"name":"浪漫传说",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/201644",
+			"name":"虚影之瞳",
+			"baseDownloadUrlPrefix":""
+		},
+		{
+			"baseUrlDir":"./urls",
+			"url":"http://www.mkzhan.com/99143",
+			"name":"极度分裂",
+			"baseDownloadUrlPrefix":""
 		}
 	]
 }
