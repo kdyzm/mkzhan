@@ -11,136 +11,148 @@
 	},
 	"webSites":[
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/43",
 			"name":"偷星九月天",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/766",
 			"name":"狐剑传",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/64593",
 			"name":"暴走邻家",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/1678",
 			"name":"哪吒传",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/168536",
 			"name":"勇者是女孩",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/206800",
 			"name":"都市喵奇谭",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/51168",
 			"name":"九九八十一",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/171213",
 			"name":"第七魔女",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/2535",
 			"name":"萝莉杀手",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/207217",
 			"name":"我的男神是水果",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/1782",
 			"name":"夜幕西饼屋",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/27270",
 			"name":"天行轶事",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/112209",
 			"name":"薄荷之夏",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/204074",
 			"name":"魔王大人天使臣",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/103761",
 			"name":"核力突破Level Up",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/206803",
 			"name":"东旅劫谈",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/206319",
 			"name":"哑舍",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/1546",
 			"name":"腾空之约",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/60518",
 			"name":"Super少女",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/52655",
 			"name":"浪漫传说",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/201644",
 			"name":"虚影之瞳",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		},
 		{
-			"baseUrlDir":"./urls",
 			"url":"http://www.mkzhan.com/99143",
 			"name":"极度分裂",
-			"baseDownloadUrlPrefix":""
+			"baseDownloadUrlPrefix":"",
+			"enable":false
+		},
+		{
+			"url":"http://www.mkzhan.com/206798",
+			"name":"蚁族限制令",
+			"baseDownloadUrlPrefix":"",
+			"enable":true
+		},
+		{
+			"url":"http://www.mkzhan.com/205001",
+			"name":"我和妹妹的秘密",
+			"baseDownloadUrlPrefix":"",
+			"enable":false
 		}
 	]
 }

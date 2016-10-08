@@ -4,6 +4,15 @@ public class DownloadModel {
 	private String url;
 	private String name;
 	private String baseDownloadUrlPrefix;
+	private Boolean enable;
+	
+	public Boolean getEnable() {
+		return enable;
+	}
+
+	public void setEnable(Boolean enable) {
+		this.enable = enable;
+	}
 
 	public String getUrl() {
 		return url;

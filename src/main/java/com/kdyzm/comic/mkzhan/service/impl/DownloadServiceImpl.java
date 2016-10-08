@@ -27,6 +27,10 @@ public class DownloadServiceImpl implements DownloadService {
 	public boolean startDownload() {
 		List<DownloadModel> list = ConfigUtils.getConfig().getWebSites();
 		for (DownloadModel download : list) {
+			if(!download.getEnable()){
+				logger.warn("《{}》被设置跳过下载",download.getName());
+				continue;
+			}
 			logger.info("开始解析 《{}》 的所有章节url。。。", download.getName());
 			File comicDir = FileUtils
 					.createDirIfNotExists(ConfigUtils.getConfig().getBaseDownloadFileDir() + "/" + download.getName());
